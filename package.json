@@ -1,0 +1,25 @@
+{
+  "name": "jobs_redis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marlonscastro/jobs_redis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marlonscastro/jobs_redis/issues"
+  },
+  "homepage": "https://github.com/marlonscastro/jobs_redis#readme",
+  "devDependencies": {
+    "tslint": "^5.20.1",
+    "typescript": "^3.9.7"
+  }
+}
